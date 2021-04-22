@@ -1,0 +1,19 @@
+{
+  "generator-fountain-react": {
+    "version": "1.0.0",
+    "props": {
+      "sharedData": {},
+      "forwardErrorToEnvironment": false,
+      "framework": "react",
+      "modules": "webpack",
+      "js": "babel",
+      "ci": "",
+      "css": "scss",
+      "resolved": "/home/st/.npm-packages/lib/node_modules/generator-fountain-webapp/node_modules/generator-fountain-react/generators/app/index.js",
+      "namespace": "fountain-react:app",
+      "_": [],
+      "sample": "todoMVC",
+      "router": "router"
+    }
+  }
+}
